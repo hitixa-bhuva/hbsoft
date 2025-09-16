@@ -668,7 +668,7 @@
 }
 
 .wdt-tabs-container.wdt-template-default .wdt-tabs-list li .ui-tabs-anchor {
-    color           : #fff !important;
+    color           : #1f3d3f;
     background-color: transparent;
     font-size       : var(--wdtFontSize_Base);
     font-family     : var(--wdtFontTypo_Alt);
